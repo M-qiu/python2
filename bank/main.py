@@ -1,5 +1,7 @@
 
 # 项目入口
+# hello world
+
 from view import View
 from bank import Bank
 # 主函数: 运行入口
