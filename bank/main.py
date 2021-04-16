@@ -2,6 +2,7 @@
 # 项目入口
 # hello world
 # menqiuqiu
+# hahahaha
 
 from view import View
 from bank import Bank
